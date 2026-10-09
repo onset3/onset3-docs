@@ -1,0 +1,233 @@
+{
+  "site_name": "ONSET3 Docs",
+  "site_description": "Discover, track, and participate in the NFT ecosystem with ONSET3.",
+  "site_url": "https://onset3.github.io/onset3-docs/",
+  "docs_dir": "docs",
+  "site_dir": "site",
+  "theme": {
+    "name": "mkdocs",
+    "color_mode": "dark",
+    "user_color_mode_toggle": true,
+    "nav_style": "dark"
+  },
+  "plugins": [
+    "search"
+  ],
+  "nav": [
+    {
+      "Start Here": [
+        {
+          "Welcome to ONSET3": "README.md"
+        },
+        {
+          "What is ONSET3?": "start-here/what-is-onset3.md"
+        },
+        {
+          "Why ONSET3?": "start-here/why-onset3.md"
+        },
+        {
+          "Vision": "start-here/vision.md"
+        },
+        {
+          "Current Product Status": "start-here/current-product-status.md"
+        }
+      ]
+    },
+    {
+      "Product": [
+        {
+          "Product Overview": "product/overview.md"
+        },
+        {
+          "Core Product Principles": "product/core-principles.md"
+        },
+        {
+          "How ONSET3 Works": "product/how-onset3-works.md"
+        },
+        {
+          "Product Entities": "product/product-entities.md"
+        },
+        {
+          "Project vs Launch vs Event vs Campaign": "product/project-launch-event-campaign.md"
+        }
+      ]
+    },
+    {
+      "Discover & Track": [
+        {
+          "Overview": "discover-track/overview.md"
+        },
+        {
+          "Discovery": "discover-track/discovery.md"
+        },
+        {
+          "Projects": "discover-track/projects.md"
+        },
+        {
+          "Launches": "discover-track/launches.md"
+        },
+        {
+          "Watchlist": "discover-track/watchlist.md"
+        },
+        {
+          "My WL": "discover-track/my-wl.md"
+        },
+        {
+          "Calendar": "discover-track/calendar.md"
+        },
+        {
+          "Notifications": "discover-track/notifications.md"
+        }
+      ]
+    },
+    {
+      "Participate": [
+        {
+          "Participation Overview": "participate/overview.md"
+        },
+        {
+          "Events": "participate/events.md"
+        },
+        {
+          "Campaigns": "participate/campaigns.md"
+        }
+      ]
+    },
+    {
+      "Portfolio": [
+        {
+          "Portfolio Overview": "portfolio/overview.md"
+        },
+        {
+          "Wallets": "portfolio/wallets.md"
+        },
+        {
+          "Holdings": "portfolio/holdings.md"
+        },
+        {
+          "Activity": "portfolio/activity.md"
+        },
+        {
+          "Analytics": "portfolio/analytics.md"
+        }
+      ]
+    },
+    {
+      "For Projects": [
+        {
+          "For Projects Overview": "for-projects/overview.md"
+        },
+        {
+          "Submit a Project": "for-projects/submit-a-project.md"
+        },
+        {
+          "Project Dashboard": "for-projects/project-dashboard.md"
+        },
+        {
+          "Project Management": "for-projects/project-management.md"
+        },
+        {
+          "Verification": "for-projects/verification.md"
+        }
+      ]
+    },
+    {
+      "Trust & Safety": [
+        {
+          "Trust Overview": "trust-safety/overview.md"
+        },
+        {
+          "Verification": "trust-safety/verification.md"
+        },
+        {
+          "Official Information": "trust-safety/official-information.md"
+        },
+        {
+          "Safety": "trust-safety/safety.md"
+        },
+        {
+          "Verification Limitations": "trust-safety/verification-limitations.md"
+        }
+      ]
+    },
+    {
+      "ONSET3 Intelligence": [
+        {
+          "Intelligence Overview": "intelligence/overview.md"
+        },
+        {
+          "NFT Market Intelligence": "intelligence/nft-market-intelligence.md"
+        },
+        {
+          "Collector Behavior": "intelligence/collector-behavior.md"
+        },
+        {
+          "Collection & Project Signals": "intelligence/collection-project-signals.md"
+        },
+        {
+          "Launch Performance": "intelligence/launch-performance.md"
+        },
+        {
+          "Chain Activity": "intelligence/chain-activity.md"
+        },
+        {
+          "Market Trends": "intelligence/market-trends.md"
+        },
+        {
+          "Market Signals": "intelligence/market-signals.md"
+        },
+        {
+          "Intelligence Reports": "intelligence/intelligence-reports.md"
+        }
+      ]
+    },
+    {
+      "Roadmap": [
+        {
+          "Roadmap Overview": "roadmap/overview.md"
+        },
+        {
+          "Current": "roadmap/current.md"
+        },
+        {
+          "Next": "roadmap/next.md"
+        },
+        {
+          "Expansion": "roadmap/expansion.md"
+        },
+        {
+          "Future": "roadmap/future.md"
+        }
+      ]
+    },
+    {
+      "Developers": [
+        {
+          "Technical Overview": "developers/technical-overview.md"
+        }
+      ]
+    },
+    {
+      "Resources": [
+        {
+          "FAQ": "resources/faq.md"
+        },
+        {
+          "Glossary": "resources/glossary.md"
+        },
+        {
+          "Official Links": "resources/official-links.md"
+        },
+        {
+          "Brand Assets": "resources/brand-assets.md"
+        },
+        {
+          "Report an Issue": "resources/report-an-issue.md"
+        },
+        {
+          "Changelog": "resources/changelog.md"
+        }
+      ]
+    }
+  ]
+}
