@@ -1,16 +1,7 @@
 # Notifications
 
-> **Status: Current / Expanding**
+> **Status: In development / availability not announced**
 
-Notifications support time-sensitive tracking.
+Notifications are intended to help users follow relevant project and account updates. This page does not announce live launch reminders, allowlist reminders, or automated delivery.
 
-Notification categories can include:
-
-- launch reminders;
-- allowlist reminders;
-- project updates;
-- launch-time changes;
-- event activity;
-- campaign updates.
-
-Delivery channels may evolve independently. A documented notification type does not automatically mean every delivery channel is currently available.
+Future notification types may include launch-time changes, project updates, and reminders. Events and Campaigns remain planned. Delivery channels will be documented separately when available; Telegram and Discord delivery are not currently advertised as live features.
