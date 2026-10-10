@@ -3,7 +3,7 @@
 > **Status: Current**
 
 ## Is ONSET3 an NFT marketplace?
-No. The core product is focused on discovery, tracking, participation, portfolio visibility and future intelligence.
+No. The current product focuses on project discovery and launch tracking. Events, Campaigns, Portfolio and Intelligence remain planned.
 
 ## Does verification mean a project is safe?
 No. Verification describes reviewed information within a defined scope. It is not an endorsement or financial guarantee.

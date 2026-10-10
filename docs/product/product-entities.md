@@ -2,7 +2,7 @@
 
 > **Status: Current + Roadmap**
 
-ONSET3 uses distinct entities so information remains structured.
+Projects, launches and users are implemented. Events, campaigns, wallets, portfolio and intelligence signals below describe planned product concepts, not available features.
 
 ## Project
 The persistent identity of a project.

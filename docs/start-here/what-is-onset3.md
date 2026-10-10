@@ -2,7 +2,7 @@
 
 > **Status: Current**
 
-ONSET3 is a product layer for discovering NFT projects and launches, tracking the opportunities that matter to a collector, and organizing time-sensitive actions such as allowlists and launch dates.
+ONSET3 is a product layer for discovering NFT projects and launches, tracking the opportunities that matter to a collector, and organizing launch dates through Watchlist and Calendar. Personal allowlist management is planned.
 
 Its broader product direction extends this foundation into participation tools, NFT portfolio visibility and market intelligence.
 

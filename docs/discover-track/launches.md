@@ -2,7 +2,7 @@
 
 > **Status: Current**
 
-Launch pages are time-sensitive views associated with projects.
+Launch Details is a tab within a Project Profile, not a standalone Launches page.
 
 A launch can include:
 
@@ -12,7 +12,7 @@ A launch can include:
 - price;
 - supply where relevant;
 - launch or mint stages;
-- allowlist information;
+- mint-stage access information (not confirmation of a user's allowlist eligibility);
 - official external destination;
 - status such as upcoming, live or ended.
 

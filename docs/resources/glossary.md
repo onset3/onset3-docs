@@ -6,7 +6,7 @@
 
 **Watchlist** — A personal state meaning the user is interested in a project.
 
-**My WL** — A personal state meaning the user has allowlist access.
+**My WL** — Planned personal allowlist tracking; not currently available.
 
 **Project** — The persistent identity of a project on ONSET3.
 
@@ -28,6 +28,6 @@
 
 **Verified Project** — A project whose specified information has been reviewed by ONSET3.
 
-**Onchain Verified** — A separate verification state based on supported blockchain information.
+**Onchain Verified** — A planned, separate verification state based on blockchain information; not currently available.
 
 **Signal** — A future data-derived indicator describing measurable market or behavior change.

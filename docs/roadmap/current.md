@@ -7,11 +7,10 @@ The current ONSET3 foundation is centered on:
 - Project Discovery
 - Project Profiles
 - Launch Discovery
-- Launch Pages
+- Launch Details within Project Profiles
 - Watchlist
-- My WL
 - Calendar
 - Project Submission
-- Verification
+- Project Verification (editorial review, not onchain verification)
 
-Individual capabilities can continue to evolve while remaining inside the current product layer.
+My WL (personal allowlist management), Events, Campaigns, Portfolio, and onchain verification are planned, not current capabilities. Notifications are in development; the current dashboard shows an empty state rather than delivering reminders.
